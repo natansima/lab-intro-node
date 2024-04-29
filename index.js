@@ -1,7 +1,7 @@
 class SortedList {
   constructor() {
     this.items = [];
-    this.lenght = 0;
+    this.length = this.items.length;
   }
 
   add(item) {
